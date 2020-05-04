@@ -1,0 +1,17 @@
+.container
+{
+    margin-top:50px;
+    margin-bottom:30px;
+    box-shadow: 0 0 20px 20px rgba(0,0,0,0.9);
+
+}
+.container h5
+{
+    margin-top:20px;
+    font-size:20px;
+}
+.container p
+{
+    margin-top:20px;
+    font-size:20px;
+}
